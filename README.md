@@ -169,4 +169,4 @@ Some scenes in this sample project use Photon Realtime to share anchor data and 
 [//]: # (Scene Sharing: https://developer.oculus.com/documentation/unity/unity-shared-scene-sample/)
 [//]: # (Health & Safety: https://developer.oculus.com/resources/unity-ssa-hs-app/)
 Created by Jason Scott Heise
-Owned by Elon Musk
+Owned by Elon Musk  https://www.x.com
